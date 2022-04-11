@@ -5,32 +5,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--CSS-->
     <link href="/styles/style.css" rel="stylesheet">
     <link href="/styles/fonts.css" rel="stylesheet">
     <link href="/styles/media.css" rel="stylesheet">
+    <!--título-->
     <title>Landing Page</title>
 </head>
 
 <body>
     <header>
+    <!--titulo-->
         <div id="title">
             <h1>Sua</h1>
             <h1>Empresa</h1>
         </div>
 
         <ul>
+        <!--inicio-->
             <a href="#">
                 <li>Início</li>
             </a>
+        <!--serviços-->
             <a href="#">
                 <li>Serviços</li>
             </a>
+        <!--Sobre-->    
             <a href="#">
                 <li>Sobre</li>
             </a>
+        <!--Contato-->    
             <a href="#">
                 <li>Contato</li>
             </a>
+        <!--Inscreva-se-->    
             <a href="#" id="inscreva-se-btn">
                 <li>Já tem uma conta?</li>
             </a>
